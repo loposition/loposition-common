@@ -5,7 +5,7 @@ import java.nio.ByteOrder;
 
 /**
  * @author: huahua
- * @description: //TODO
+ * @description:  这是一个murmurhash 工具 可以转换成62进制的
  * @date: create at 下午12:10 2018/1/2
  */
 public class MurmurUtils {
